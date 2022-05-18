@@ -35,7 +35,7 @@ const LineChart =()=>{
     return(
         <div>
            <Line state={state} options={options} />
-           <p>bar chart</p>
+        
               
             
         </div>
